@@ -1,11 +1,13 @@
 ## Tech Stack:
 - NextJS
+- Typescript
 - Tailwinds
 - Shadcn
 - React-Hook-Form
 - Supabase
 
-
+## Live with Vercel
+[live](https://registerform-kappa.vercel.app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
